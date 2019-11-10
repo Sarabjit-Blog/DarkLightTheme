@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DarkOrLightTheme</string>
+    <string name="hello_this_is_a_sample_app_to_demonstrate_dark_theme">Hello this is a sample app to demonstrate Dark/Light Theme</string>
+    <string name="change_theme">Change Theme</string>
+</resources>
